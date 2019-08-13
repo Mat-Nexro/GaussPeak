@@ -1,0 +1,3 @@
+sigma: 120
+iteracje: 20000
+V0: 0
